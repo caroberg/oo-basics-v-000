@@ -11,5 +11,3 @@ class Shoe
   end
 end
 
-reebok = Shoe.new("Reebok")
-reebok.condition = "new"
